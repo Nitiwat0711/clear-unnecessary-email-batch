@@ -1,0 +1,6 @@
+/node_modules
+.env
+google_client_secret.json
+google_token.json
+error.log
+combined.log
